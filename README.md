@@ -1,2 +1,2 @@
 # codility
-Resoluções de questões de teste do site Codility
+Resoluções de questões do site Codility
